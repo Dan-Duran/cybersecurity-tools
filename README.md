@@ -505,3 +505,8 @@ Other amazingly awesome lists:
 ## [Contributing](contributing.md)
 
 Your contributions are always welcome!
+
+## Credits:
+ - https://github.com/okhosting
+ - https://github.com/cyberguideme
+ - https://github.com/king04aman
