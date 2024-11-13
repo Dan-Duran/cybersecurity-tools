@@ -1,6 +1,10 @@
 # cybersecurity-tools
 A curated collection of amazing software, libraries, documents, books, resources, and other cool security-related content.
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 - [Awesome Security](#awesome-security)
   - [Network](#network)
     - [Scanning / Pentesting](#scanning--pentesting)
